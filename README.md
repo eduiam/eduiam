@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eduiam, friends call me Edu
 - 👀 I’m interested in coding, computer hardware, photography, Edible Gardening and Snorkling.
 - 🌱 I’m currently learning network security and using homelab
-- 💞️ I’m looking to collaborate on open source photography sofware and open source Operating Systems for old hardware.
+
 
 <!---
 eduiam/eduiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
